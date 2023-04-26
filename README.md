@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![image](https://user-images.githubusercontent.com/98203936/234477760-a563d01c-5bed-4ed9-988c-136ac05aab4d.png)
 
-[LIVE DEMO]{https://angular-frontend-app.azurewebsites.net/}
+[LIVE DEMO](https://angular-frontend-app.azurewebsites.net/)
