@@ -1,0 +1,33 @@
+.img-fluid{
+    border-radius: 7%;
+    width: 580px;
+    height: 380px;
+    margin-right: 10px;
+}
+.title{
+    text-align: center;
+}
+.card-text{
+    text-align: justify;
+    margin-right: 10px;
+}
+.container-fluid{
+    margin: 10px;
+}
+.banner{
+    border-radius: 10px;
+    width: auto;
+    height: 140px;
+    background-color: rgb(190, 190, 190);
+    text-align: center;
+    color: white;
+}
+
+.container-fluid{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.card-img-top{
+    width: 100%;
+    height: 300px;
+}
